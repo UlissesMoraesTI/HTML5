@@ -1,0 +1,11 @@
+Configuração - 1 Fotos
+<img src="imagens/frentecondominio.jpg" alt="imagem da Frente do Condomínio1" width=1480 height=500>
+
+Configuração - 2 Fotos
+<img src="imagens/PLANTA1AANT.jpg" alt="imagem da Frente do Condomínio1" width=740 height=500>
+
+Configuração - 3 Fotos
+<img src="imagens/MURO1GANT.jpg" alt="imagem da Frente do Condomínio2" width=498 height=500>        
+
+Configuração - 4 Fotos
+<img src="imagens/CERCA1AANT.jpg" alt="imagem da Frente do Condomínio1" width=370 height=500>
